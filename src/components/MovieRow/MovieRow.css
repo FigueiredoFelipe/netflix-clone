@@ -1,0 +1,30 @@
+.movieRow{
+    margin-bottom: 30px;
+}
+
+.movieRow h2 {
+    margin: 0px 0px 0px 30px
+}
+
+.movieRow--listArea {
+    overflow-x: hidden;
+    padding-left: 30px;
+}
+
+.movieRow--list{
+    width: 999999999px;
+}
+.movieRow--item {
+    display: inline-block;
+    width: 150px;
+    }
+
+.movieRow--item img {
+    width: 100%;
+    transform: scale(0.9);
+}
+.movieRow--item img:hover {
+    transform: scale(1);
+}
+
+/* AULA PARADA EM : 1:07:31 - https://www.youtube.com/watch?v=tBweoUiMsDg&list=WL&index=12&t=781s*/
