@@ -1,3 +1,4 @@
+import MovieTitle from './MovieTitle';
 import React from 'react';
 
 import './MovieRow.css';
@@ -5,7 +6,7 @@ import './MovieRow.css';
 const MovieRow = ({ title, items }) => {
   return (
     <div className="movieRow">
-      <h2>{title}</h2>
+      <MovieTitle title={title} />
       <div className="movieRow--listArea">
         <div className="movieRow--list">
           {items.results.length > 0 &&
