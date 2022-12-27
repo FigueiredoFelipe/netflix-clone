@@ -1,3 +1,7 @@
+This project has been brought to life for academic purposes:
+
+Live demo: https://netflix-clone-by-ff.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
