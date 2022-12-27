@@ -1,6 +1,8 @@
-This project has been brought to life for academic purposes:
+# This project has been brought to life for academic purposes:
 
 Live demo: https://netflix-clone-by-ff.netlify.app
+
+---
 
 # Getting Started with Create React App
 
